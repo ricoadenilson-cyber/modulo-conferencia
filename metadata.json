@@ -1,0 +1,6 @@
+{
+  "name": "Módulo de Conferência",
+  "description": "Aplicativo mobile-first para conferência diária de estoque em fardos, cálculo de paletes e avarias, fotos de produtos e exportação para Excel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
